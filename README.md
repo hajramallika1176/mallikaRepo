@@ -1,5 +1,5 @@
 # mallikaRepo
-**this is my git learning precess
+### this is my git learning precess
 # git 
 * version control system is a tool that helps to track changes in code ;
 * git is a version control system , it is:
