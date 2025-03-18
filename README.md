@@ -17,3 +17,4 @@
    * clone
      --Cloning a repo on our local machine  (remotr -->github,,,, local --->laptop.pc)
    git clone "some link"
+   * cd --> to change the directory.
