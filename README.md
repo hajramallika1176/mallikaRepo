@@ -21,3 +21,23 @@
    * status
       --> display the status of the code
      git status
+ *some case 
+    ##### untracked
+    * new file that git doesn't yet track; <br>
+    ##### modified
+    * change in code tha are not add in github; <br>
+    ##### stage
+    *file is ready to become commited;<br>
+    ##### unmodified
+    * unchanged;
+  * before commiting the code we have to add the file using
+    git add "file name"
+    * add
+    -->adds new or changed files in your working directory to the Git staging area.
+    * commit
+     --> it is a record of change  
+     git commit -m "some message related change"
+    * push command
+    --> push - upload local repo content to remote repo;
+      git push origin main
+    
