@@ -9,4 +9,8 @@
  ### Github
  * website that allows to developwes to store and manage their code using git.
  * inside gid hub we can create our folder that is calld repository.
+   #### Git configure
+   * git config -- global user.name "My name".
+   * git config -- global user.email "name@email.com".
+   * git config -- list.
    
