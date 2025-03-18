@@ -14,6 +14,6 @@
    * git config -- global user.email "name@email.com".
    * git config -- list.
    #### Git command
-   *clone
+   * clone
      --Cloning a repo on our local machine  (remotr -->github,,,, local --->laptop.pc)
    git clone "some link"
